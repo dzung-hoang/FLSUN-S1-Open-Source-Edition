@@ -137,7 +137,7 @@ The eMMC offers faster read and write speed and is less prone to physical corrup
 
 -  Perform this combination to enter in USB Mode:
 
-    Hold **`BOOT9200`** button → Press **`BOOT2100`** button → Release **`BOOT9200`** button
+    Hold **`BOOT9200`** button → Press and Release **`BOOT2100`** button → Release **`BOOT9200`** button
 
 
 - **RKDevTool** should display **`Found One LOADER Device`**:
